@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub _the first change for studying_
+# Introduction to GitHub _the first change for studying_ 2nd_studying_change
 
 _Get started using GitHub in less than an hour._
 
